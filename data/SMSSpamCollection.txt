@@ -1,0 +1,4 @@
+ham	Hey bro, are we meeting later?
+spam	Congratulations! You've won a free ticket. Reply WIN now.
+ham	I'll call you when I arrive.
+spam	URGENT!! Claim your free prize at http://freespam.com
